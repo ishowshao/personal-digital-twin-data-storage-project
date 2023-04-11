@@ -1,2 +1,15 @@
-# personal-digital-twin-data-storage-project
-Personal Digital Twin Data Storage Project
+# Personal Digital Twin Data Storage Project
+
+我感觉每个有意愿的人，都应该从现在开始起，储备用于未来训练个人数字孪生所需的数据
+
+其实挺简单的，大概就以下三类数据
+
+* 对话数据（文本）
+* 个人音频
+* 头部3D建模
+
+等AI发展到足够每个人都能拥有一个数字孪生时，这些储备数据就有用了
+
+现在只需要利用一些工具和存储设施把数据保存好
+
+目前的AI已经具备一定能力了
